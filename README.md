@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi there! 👋
 
-<!--
-**PranavSoneji-07/PranavSoneji-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+I'm a passionate problem solver who loves tackling challenges and finding optimal solutions. My curiosity drives me to explore new technologies and build efficient, scalable applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack
+
+Programming Languages: C, C++, Dart
+
+App Development: Flutter (UI), Firebase (Backend)
+
+📱 Current Focus
+
+I'm currently working on app development projects using Flutter for a seamless UI experience and Firebase for a robust backend. Additionally, I'm diving deep into Data Structures and Algorithms to enhance my problem-solving skills.
+
+🌱 Learning & Growth
+
+Always eager to learn new things and improve my coding skills! I enjoy exploring different aspects of software development, especially in the mobile app ecosystem.
