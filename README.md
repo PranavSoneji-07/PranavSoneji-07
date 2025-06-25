@@ -8,7 +8,7 @@ I'm a passionate problem solver who loves tackling challenges and finding optima
 
 Programming Languages: C, C++, Dart
 
-App Development: Flutter (UI), Firebase (Backend)
+App Development: Flutter (UI)
 
 ## 📱 Current Focus
 
